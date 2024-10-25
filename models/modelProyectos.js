@@ -1,4 +1,4 @@
-const proyectos = [
+export const proyectos = [
 
     { nombre: 'Proyecto A', duracion: 6, empresa: 'Empresa 1', tipo: 'front' },
     { nombre: 'Proyecto B', duracion: 12, empresa: 'Empresa 2', tipo: 'back' },

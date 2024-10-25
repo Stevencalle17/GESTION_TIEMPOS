@@ -1,17 +1,17 @@
 import {proyectos} from "../models/modelProyectos.js";
 
-function listaProyectos(){
+export function listarProyectos(){
+    console.log(proyectos)
+}
+
+export function filtrarPorEmpresa(){
 
 }
 
-function filtrarPorEmpresa(){
+export function filtrarPorProyecto(){
 
 }
 
-function filtrarPorProyecto(){
-
-}
-
-function filtrarPorTipoProyecto(){
+export function filtrarPorTipoProyecto(){
 
 }
